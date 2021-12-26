@@ -121,3 +121,21 @@ footer {
 footer h2 {
     font-size: 20px;
 }
+
+
+.wrapper {
+    border: 2px dotted rgb(96, 139, 168);
+    
+}
+
+.box {
+
+    display: flex;
+    flex-wrap: wrap;
+    margin:-10px;
+}
+
+.box>* {
+    flex: 1 1 160px;
+    margin: 10px;
+}
