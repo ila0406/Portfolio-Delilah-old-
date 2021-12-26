@@ -17,15 +17,15 @@ p  {
     color: #ffffff;
 }
 
-.me {
+#me {
     height: 10%;
 }
 
-.work   {
+#work   {
     height: 80%
 }
 
-.contacts {
+#contacts {
     height: 10%
 }
 
