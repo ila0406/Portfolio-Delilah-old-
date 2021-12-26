@@ -6,13 +6,28 @@
 
 body {
     background-color: #d9dcd6;
-    background-image: url("daniel-sessler-cDtmsXNqi3Q-unsplash.jpg");
+    background-image: url("pawel-czerwinski-oDNRhpaeVAI-unsplash.jpg");
     background-color: #cccccc; /* Used if the image is unavailable */
-    height: 500px; /* You must set a specified height */
+    height: 800px; /* You must set a specified height */
     background-position: center; /* Center the image */
     background-repeat: no-repeat; /* Do not repeat the image */
     background-size: cover; /* Resize the background image to cover the entire container */
   }
+p  {
+    color: #ffffff;
+}
+
+.me {
+    height: 10%;
+}
+
+.work   {
+    height: 80%
+}
+
+.contacts {
+    height: 10%
+}
 
 header {
     padding: 20px;
@@ -22,7 +37,6 @@ header {
 }
 
 header h1 {
-    /* is header class needed? there is only one h1 in html file */
     display: inline-block;
     font-size: 48px;
 }
@@ -79,7 +93,9 @@ aside {
     width: 20%;
     height: 100%;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    background-color: #7abbb2;
+    /*background-color: #7abbb2;*/
+    border-right-style: solid;
+    border-color: #7abbb2;
     color: #ffffff;
 }
 
@@ -88,6 +104,11 @@ aside {
 }
 
 h3 {
+    margin-bottom: 10px;
+    text-align: center; 
+}
+
+h6 {
     margin-bottom: 10px;
     text-align: center; 
 }
@@ -117,6 +138,32 @@ h3 {
     font-size: 36px;
 }
 
+.wrapper {
+    border: 2px dotted rgb(96, 139, 168);
+    
+}
+
+.box {
+    display: flex;
+    flex-wrap: wrap;
+    margin:-10px;
+    flex-flow: row-reverse wrap-reverse;
+}
+
+.projects  {
+    background-color: #d9dcd6;
+    opacity: 70%;
+    background-image: linear-gradient(
+    rgba(232, 102, 236, 0.3) 0%,
+    rgba(232, 102, 236, 0.6) 100%
+  );
+}
+
+.box>* {
+    flex: 1 1 160px;
+    margin: 10px;
+}
+
 footer {
     padding: 30px;
     clear: both;
@@ -127,29 +174,4 @@ footer {
 
 footer h2 {
     font-size: 20px;
-}
-
-
-.wrapper {
-    border: 2px dotted rgb(96, 139, 168);
-    
-}
-
-.box {
-    display: flex;
-    flex-wrap: wrap;
-    margin:-10px;
-}
-.projects  {
-    background-color: #d9dcd6;
-    opacity: 50%;
-    background-image: linear-gradient(
-    rgba(232, 102, 236, 0.3) 0%,
-    rgba(232, 102, 236, 0.6) 100%
-  );
-}
-
-.box>* {
-    flex: 1 1 160px;
-    margin: 10px;
 }
