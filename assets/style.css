@@ -6,7 +6,7 @@
 
 body {
     background-color: #d9dcd6;
-    background-image: url("pawel-czerwinski-oDNRhpaeVAI-unsplash.jpg");
+    background-image: url("./images/pawel-czerwinski-oDNRhpaeVAI-unsplash.jpg");
     background-color: #cccccc; /* Used if the image is unavailable */
     height: 100%; /* You must set a specified height */
     background-position: center; /* Center the image */
@@ -145,9 +145,9 @@ h3, h4, h5, h6 {
 }
 
 .projects  {
-    background-color: #d9dcd6;
-    opacity: 70%;
-    /*background-image: linear-gradient(
+    /*background-color: #d9dcd6;
+    background-opacity: 40%;
+    background-image: linear-gradient(
     rgba(232, 102, 236, 0.3) 0%,
     rgba(232, 102, 236, 0.6) 100%
   );*/
