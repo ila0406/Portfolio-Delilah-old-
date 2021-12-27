@@ -5,14 +5,9 @@
 }
 
 body {
-    background-color: #d9dcd6;
-    background-image: url("./images/pawel-czerwinski-oDNRhpaeVAI-unsplash.jpg");
-    background-color: #cccccc; /* Used if the image is unavailable */
-    height: 100%; /* You must set a specified height */
-    background-position: center; /* Center the image */
-    background-repeat: no-repeat; /* Do not repeat the image */
-    background-size: cover; /* Resize the background image to cover the entire container */
-  }
+    background-color: black;
+}
+
 p  {
     color: #ffffff;
 }
@@ -106,6 +101,7 @@ aside {
 h3, h4, h5, h6 {
     margin-bottom: 10px;
     text-align: center; 
+    color: #b96ab3;
 }
 
 .container  img {
@@ -124,7 +120,7 @@ h3, h4, h5, h6 {
 }
 
 .content-image {
-    max-height: 200px;
+    max-height: 300px;
 }
 
 .content-description h2  {
