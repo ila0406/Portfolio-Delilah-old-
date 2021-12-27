@@ -121,7 +121,7 @@ h3, h4, h5, h6 {
 }
 
 .content-image {
-    max-height: 300px;
+    /*max-height: 500px;*/
 }
 
 .content-description h2  {
