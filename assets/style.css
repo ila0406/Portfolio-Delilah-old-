@@ -63,7 +63,7 @@ a {
     background-size: cover;
     background-position: center;
 } 
-*/
+
 .float-left {
     float: left;
     margin-right: 25px;
@@ -73,6 +73,7 @@ a {
     float: right;
     margin-left: 25px;
 }
+*/
 
 section {  
     width: 50%;
@@ -95,7 +96,7 @@ aside {
 }
 
 .container { 
-    margin-bottom: 32px;  
+    /*margin-bottom: 32px;  */
 }
 
 h3, h4, h5, h6 {
@@ -129,8 +130,9 @@ h3, h4, h5, h6 {
 }
 
 .wrapper {
+    /*
     border: 2px dotted rgb(96, 139, 168);
-    
+    */
 }
 
 .box {
