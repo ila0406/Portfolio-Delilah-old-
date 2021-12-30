@@ -24,7 +24,7 @@ body {
 
 header {
     padding: 20px;
-    background-color: #7abbb2;
+    background-color: #488078;
 }
 
 header h1 {
@@ -110,7 +110,7 @@ footer {
     padding: 30px;
     clear: both;
     text-align: center;
-    background-color: #7abbb2;
+    background-color: #488078;
 }
 
 @media screen and (max-width: 768px) {
