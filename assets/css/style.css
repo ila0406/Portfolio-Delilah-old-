@@ -60,6 +60,7 @@ a {
 
 h2 { 
     margin-left: 20px;
+    margin-bottom: 20px;
     padding: 20px;
     clear: both;
     float: left;
@@ -85,9 +86,6 @@ section {
     width: 50%;
     display: inline-block;
     margin-left: 20px;
-        /*
-    border: 2px dotted rgb(96, 139, 168);
-    */
 }
 
 .box {
@@ -98,13 +96,6 @@ section {
 }
 
 .projects  {
-    /*
-    background-color: #d9dcd6;
-    background-opacity: 40%;
-    background-image: linear-gradient(
-    rgba(232, 102, 236, 0.3) 0%,
-    rgba(232, 102, 236, 0.6) 100%
-    );*/
     border-radius: .25px;
     border-style: solid;
     border-color: #b96ab3;
@@ -165,12 +156,18 @@ footer {
     }*/
 }
 
-/*
-  @media screen and (max-width: 741px) {
-
-}*/
-
-/*
 @media screen and (max-width: 360px){
+    .box    {
+        display: inline-block;
+        justify-content: center;
+    }
+}
 
-}*/
+
+ /*
+    background-color: #d9dcd6;
+    background-opacity: 40%;
+    background-image: linear-gradient(
+    rgba(232, 102, 236, 0.3) 0%,
+    rgba(232, 102, 236, 0.6) 100%
+    );*/
