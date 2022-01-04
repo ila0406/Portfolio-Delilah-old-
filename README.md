@@ -1,17 +1,18 @@
-# Develop-wk1Homework-DH
-Homework repo for wk1-html-css 
+# Develop-wk2Homework-DH
+Homework repo for wk2-advanced-css 
 
-https://ila0406.github.io/Code-Refactor-Horiseon/
+https://ila0406.github.io/Portfolio-Delilah/
 
 ## Accessibility
-![The Horiseon webpage includes a navigation bar, a header image, and cards with text and images at the bottom of the page.](./assets/images/Accessibility.png)
+Lighthouse report on accesibility
+![Lighthouse](./assets/images/accesibility.png)
 
-## Mock-Ups
+## Mock-Up 
 
-The following image shows the web application's appearance and functionality before refractoring:
+The following animation shows the web application's appearance and functionality that was to be used as example mockup.
 
-![The Horiseon webpage includes a navigation bar, a header image, and cards with text and images at the bottom of the page.](./assets/images/01-html-css-git-homework-demo.png)
+![portfolio demo](./assets/images/02-advanced-css-homework-demo.gif)
 
-The following image shows the web application's appearance and functionality after refractoring:
-
-![The Horiseon webpage includes a navigation bar, a header image, and cards with text and images at the bottom of the page.](./assets/images/01-html-css-git-homework-refractor.png)
+The following mockup shows the responsiveness of the website on both the computer and moto G4 phone. 
+![phone](./assets/images/responsive1.png)
+![computer](./assets/images/responsive2.png)
