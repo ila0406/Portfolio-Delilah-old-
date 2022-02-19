@@ -1,6 +1,4 @@
-# Develop-wk2Homework-DH
-Homework repo for wk2-advanced-css 
-
+# Portfolio-Delilah
 https://ila0406.github.io/Portfolio-Delilah/
 
 ## Accessibility
