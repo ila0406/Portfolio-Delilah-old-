@@ -58,6 +58,7 @@ a {
     text-decoration: none;
 }
 
+
 /* Banner separating header from main section of page */
 #hero-image {
     height: 200px;
@@ -86,6 +87,12 @@ h3 {
     color: #b96ab3;
 }
 
+h4 {
+    margin-bottom: 10px;
+    text-align: right; 
+    color: #b96ab3;
+}
+
 section {  
     width: 50%;
     display: inline-block;
@@ -98,6 +105,10 @@ section {
     flex-wrap: wrap;
     margin:-10px;
     flex-flow: row-reverse wrap-reverse;
+}
+
+p   {
+    color: #488078;
 }
 
 /* project border */
