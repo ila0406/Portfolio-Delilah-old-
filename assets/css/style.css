@@ -121,7 +121,7 @@ p   {
 /* project image */
 .project-img {
     display: block;
-    margin: 0px auto;
+    margin: 10px auto;
     max-width: 200px;
 }
 
