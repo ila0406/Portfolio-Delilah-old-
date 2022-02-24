@@ -1,4 +1,4 @@
-<script src="three.r119.min.js"></script>
+{/* <script src="three.r119.min.js"></script>
 <script src="vanta.fog.min.js"></script>
 <script>
 VANTA.FOG({
@@ -12,4 +12,4 @@ VANTA.FOG({
   midtoneColor: 0xffa4,
   baseColor: 0x827d7d
 })
-</script>
+</script> */}
