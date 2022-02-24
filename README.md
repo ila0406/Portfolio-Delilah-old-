@@ -3,14 +3,16 @@ https://ila0406.github.io/Portfolio-Delilah/
 
 ## Accessibility
 Lighthouse report on accesibility
-![Lighthouse](./assets/images/accesibility.png)
+
+<img src="./assets/images/accesibility.png" width="500">
 
 ## Mock-Up 
 
 The following animation shows the web application's appearance and functionality that was to be used as example mockup.
 
-![portfolio demo](./assets/images/02-advanced-css-homework-demo.gif)
+<img src="./assets/images/02-advanced-css-homework-demo.gif" width="500">
 
 The following mockup shows the responsiveness of the website on both the computer and moto G4 phone. 
-![phone](./assets/images/responsive1.png)
-![computer](./assets/images/responsive2.png)
+
+<img src="./assets/images/responsive1.png" width="300">
+<img src="./assets/images/responsive2.png" width="500">
