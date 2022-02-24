@@ -107,9 +107,9 @@ section {
     flex-flow: row-reverse wrap-reverse;
 }
 
-p   {
+/* p   {
     color: #488078;
-}
+} */
 
 /* project border */
 .projects  {
