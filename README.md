@@ -1,6 +1,12 @@
 # Portfolio-Delilah
 https://ila0406.github.io/Portfolio-Delilah/
 
+## Description
+My portfolio of my top projects
+
+## Technologies Used
+CSS, HTML, Bootstrap
+
 ## Accessibility
 Lighthouse report on accesibility
 
@@ -16,3 +22,6 @@ The following mockup shows the responsiveness of the website on both the compute
 
 <img src="./assets/images/responsive1.png" width="300">
 <img src="./assets/images/responsive2.png" width="500">
+
+## Questions
+email: ila0406@gmail.com
